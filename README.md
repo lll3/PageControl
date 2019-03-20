@@ -6,4 +6,4 @@ PageControl *pageControl = [[PageControl alloc] initWithFrame:CGRectMake(0, CGRe
  [self.view addSubview:pageControl];
  
  
-![Image text] (https://raw.githubusercontent.com/lll3/PageControl/master/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-03-20%20at%2013.53.03.png)
+![Image text] (https://github.com/lll3/PageControl/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-03-20%20at%2013.53.03.png)
