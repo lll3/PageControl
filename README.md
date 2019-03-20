@@ -5,5 +5,5 @@ PageControl *pageControl = [[PageControl alloc] initWithFrame:CGRectMake(0, CGRe
 
  [self.view addSubview:pageControl];
  
- 
+对您有一点帮助的，来一颗小星星支持下，谢谢
 ![Image text](https://github.com/lll3/PageControl/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-03-20%20at%2013.53.03.png?raw=true)
